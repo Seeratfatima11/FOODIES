@@ -1,5 +1,6 @@
 @media (max-width:1024px) {
            /* About Section */
+
 }
 
 @media (max-width: 991px){
@@ -47,6 +48,10 @@
       }
 
     /* story section */
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+    }
 
 
     /* carousal design */
